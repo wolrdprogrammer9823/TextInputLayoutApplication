@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextInputLayoutApplication</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="user_name">用户名</string>
+    <string name="password">密码</string>
+    <string name="user_name_cannot_null">用户名不能为空</string>
+</resources>
